@@ -203,7 +203,7 @@ This platform can be applied to:
 
 ## 📝 License
 
-MIT License © 2025 Global ESG Intelligence Platform Team
+MIT License © 2025 Omnind Inc.
 
 
 ---
