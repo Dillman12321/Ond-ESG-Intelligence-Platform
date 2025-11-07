@@ -1,4 +1,9 @@
 ### Ond-ESG-Intelligence-Platform
+### OSuite by Ond & Co  |  An NDIM Group Product
+**Omnind Inc.** ®  — Stock Ticker: NDIM  |  Domain: [nd.im](https://nd.im)
+
+Ond & Co is the technical brand and subsidiary of Omnind Inc., developing the Trust Layer for AI & Web3.  
+All Ond products are part of the NDIM Group ecosystem.
 
  
 ![Azure](https://img.shields.io/badge/Azure-Cloud-blue?logo=microsoftazure)
@@ -195,11 +200,6 @@ This platform can be applied to:
 
 📈 Consultancies: Provide ESG insights to clients
 
-
-## 👥 Contributors  
-
-- **Adharsh U** – Data Engineering, Azure ML, AI Predictions, DevOps Automation  
-- **Savio Joseph Francis** – Power BI Dashboards, ESG KPI Visualizations, Reporting
 
 ## 📝 License
 
